@@ -1,6 +1,6 @@
 ---
 title: "The Deconstruction of Religious Dogmatism in Heideggers Call to Authenticity"
-collection: philosophies
+collection: philosophy
 permalink: /philosophy/heidegger-dogmatism
 excerpt: 'Heidegger’s truth is incongruous with dogmatic notions of religion ascribing to pre-decided realities and ways of being in the world. However, Heidegger’s theories are not incongruous with spirituality; a phenomenological investigation of truth as disclosure reveals the process of truth-seeking and making to be a rescued form of spirituality. A Heideggarian understanding of truth rescues the truth-seeker from religious dogmatism by disclosing potentialities for being and therefore constitutes a spiritual, if not religious, revival.'
 date: 2017-01-01
