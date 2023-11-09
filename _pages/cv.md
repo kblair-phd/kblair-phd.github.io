@@ -36,9 +36,15 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Theological Research
 ======
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Philosophy Research
+======
+  <ul>{% for post in site.philosophy %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
