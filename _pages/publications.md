@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Theology Scholarship"
 permalink: /publications/
 author_profile: true
 ---
