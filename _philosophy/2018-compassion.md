@@ -1,6 +1,6 @@
 ---
 title: "Compassion and Scholarship"
-collection: philosophies
+collection: philosophy
 permalink: /philosophy/compassion-scholarship
 excerpt: 'XXX'
 date: 2018-01-01
