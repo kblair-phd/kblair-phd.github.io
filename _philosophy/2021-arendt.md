@@ -1,6 +1,6 @@
 ---
 title: "Agents of Good and Evil: Hannah Arendt and LDS Moral Philosophy"
-collection: philosophies
+collection: philosophy
 permalink: /philosophy/arendt-agency
 excerpt: 'XXX'
 date: 2021-01-01
