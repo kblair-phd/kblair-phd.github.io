@@ -6,6 +6,7 @@ excerpt: 'The Church of Jesus Christ of Latter-day Saints possesses a subversive
 date: 2021-01-01
 venue: 'Religions'
 paperurl: 'http://kblair-phd.github.io/files/Religion_2021.pdf'
+citation: 'Blair, Kristen. 2021. &quot;Disconnection and the Healing Practice of Imagination for Mormon Environmental Ethics&quot; <i>Religions</i> 12, no. 11: 948. https://doi.org/10.3390/rel12110948'
 ---
 
 The Church of Jesus Christ of Latter-day Saints possesses a subversive and fecund interpretation of the Christian creation narrative. This interpretation, denying creation ex nihilo, bespeaks a particular attention to and care for the living earth. However, Latter-day Saint praxis is wounded by a searing disconnect between the theopoetics of its conceptual creation and its lived practice. 
