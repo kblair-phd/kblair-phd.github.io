@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Theology Scholarship"
     url: /publications/
+
+  - title: "Philosophy Scholarship"
+    url: /philosophy/
     
   - title: "Milk & Honey"
     url: /milkandhoneymamas/
