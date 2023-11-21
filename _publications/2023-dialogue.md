@@ -15,4 +15,6 @@ Saint framework in theory but not in rhetorical practice.
 
 You can view and download this article [on Dialogue](https://www.dialoguejournal.com/articles/free-forever-to-act-for-themselveshoward-thurman-and-latter-day-saint-agency/). 
 
+You can also hear me discuss this article [on a podcast](https://www.dialoguejournal.com/podcasts/exploring-howard-thurman-and-latter-day-saint-agency-with-kristen-blair/) or [on YouTube](https://www.youtube.com/watch?v=JNPU8QEf7vo&ab_channel=DialogueJournalofMormonThought). 
+
 'Blair, Kristen. 2023. &quot;Free Forever to Act for Themselves&quot;: Howard Thurman and Latter-day Saint Agency; <i>Dialogue</i>.'
