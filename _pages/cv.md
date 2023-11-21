@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Theological Studies, University of Toronto, 2027 (expected)
-* * M.Div, Boston University, 2022
+* M.Div, Boston University, 2022
 * B.S. in Philosophy and English, Brigham Young University, 2017
 
 Theological Research
